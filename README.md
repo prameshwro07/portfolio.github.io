@@ -1,2 +1,3 @@
 # portfolio.github.io
-This is personal portfolio website. Auth: Prameshwor Malla
+This is personal portfolio website.
+Author => Prameshwor Malla
